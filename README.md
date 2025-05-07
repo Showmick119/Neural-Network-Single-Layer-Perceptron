@@ -74,7 +74,7 @@ Epoch 2: Error = 0.77
 ...
 Model 32: Predicted Showmick Das to not be a fan of ChatGPT.
 Model Statistics
-Total Predictions made: 662
+Total Predictions made: 62
 Overall accuracy: 96.67%
 ```
 
@@ -82,17 +82,10 @@ Overall accuracy: 96.67%
 
 ## 🔧 How to Compile and Run
 
-Ensure all `.java` files are in the same folder (or use package imports properly):
+Ensure all `.java` files are in the same folder:
 
 ```bash
 javac *.java
-java Predictor
-```
-
-If using package folders:
-
-```bash
-javac -d . activationfunctions/*.java *.java
 java Predictor
 ```
 
@@ -118,8 +111,7 @@ java Predictor
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author and Motivation
 
-**Showmick Das**  
-Computer Engineering @ Georgia Tech  
-This project was developed to explore the intersection of foundational machine learning and Object Oriented Principles in Java.
+**Showmick Das** 
+- This project was developed to explore the intersection of foundational machine learning and Object Oriented Principles in Java.
