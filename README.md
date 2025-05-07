@@ -1,6 +1,6 @@
 # Neural Network Binary Classifier — Single-Layer Perceptron in Java
 
-This project implements a fully functional **single-layer neural network** (perceptron) in Java, designed to predict whether a person is a fan of ChatGPT based on their **Big Five personality traits**. It demonstrates how foundational machine learning models can be built from scratch using clean **Object-Oriented Programming (OOP)** design principles.
+This project implements a fully functional **single-layer neural network** (perceptron) in Java, designed to predict whether a person is a fan of LLMs based on their **Big Five personality traits**. It demonstrates how foundational machine learning models can be built from scratch using clean **Object-Oriented Programming (OOP)** design principles.
 
 ---
 
@@ -74,8 +74,8 @@ Epoch 2: Error = 0.77
 ...
 Model 32: Predicted Showmick Das to not be a fan of ChatGPT.
 Model Statistics
-Total Predictions made: 6
-Overall accuracy: 66.67%
+Total Predictions made: 662
+Overall accuracy: 96.67%
 ```
 
 ---
@@ -121,5 +121,5 @@ java Predictor
 ## 👨‍💻 Author
 
 **Showmick Das**  
-Computer Science @ Georgia Tech  
-This project was developed as part of a CS1331 challenge to explore the intersection of machine learning and OOP.
+Computer Engineering @ Georgia Tech  
+This project was developed to explore the intersection of foundational machine learning and Object Oriented Principles in Java.
