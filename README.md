@@ -4,7 +4,7 @@ This project implements a fully functional **single-layer neural network** (perc
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Custom Neural Network (Single-Layer Perceptron)
 - Binary Classification Output (0 or 1)
@@ -19,7 +19,7 @@ This project implements a fully functional **single-layer neural network** (perc
 
 ---
 
-## 💡 Neural Network Concepts Implemented
+## Neural Network Concepts Implemented
 
 | Concept            | Details |
 |-------------------|---------|
@@ -34,7 +34,7 @@ This project implements a fully functional **single-layer neural network** (perc
 
 ---
 
-## 🧱 Class Overview
+## Class Overview
 
 ### `Person.java`
 Encapsulates a person's:
@@ -66,7 +66,7 @@ Main driver class:
 
 ---
 
-## 🖥️ Sample Output
+## Sample Output
 
 ```
 Epoch 1: Error = 0.81
@@ -80,7 +80,7 @@ Overall accuracy: 96.67%
 
 ---
 
-## 🔧 How to Compile and Run
+## How to Compile and Run
 
 Ensure all `.java` files are in the same folder:
 
@@ -91,7 +91,7 @@ java Predictor
 
 ---
 
-## 🚀 Possible Future Extensions
+## Possible Future Extensions
 
 - Support for multi-layer (deep) networks
 - Backpropagation and momentum-based optimizers
@@ -101,7 +101,7 @@ java Predictor
 
 ---
 
-## 📚 Concepts Reinforced
+## Concepts Reinforced
 
 - Neural network fundamentals
 - Manual implementation of activation functions
@@ -111,7 +111,9 @@ java Predictor
 
 ---
 
-## 👨‍💻 Author and Motivation
+## Author and Motivation
 
 **Showmick Das** 
 - This project was developed to explore the intersection of foundational machine learning and Object Oriented Principles in Java.
+
+---
