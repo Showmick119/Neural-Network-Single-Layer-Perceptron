@@ -1,4 +1,4 @@
-# Neural Network Binary Classifier — Single-Layer Perceptron in Java
+# Binary Classification Neural Network — Single-Layer Perceptron in Java
 
 This project implements a fully functional **single-layer neural network** (perceptron) in Java, designed to predict whether a person is a fan of LLMs based on their **Big Five personality traits**. It demonstrates how foundational machine learning models can be built from scratch using clean **Object-Oriented Programming (OOP)** design principles.
 
