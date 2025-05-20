@@ -111,9 +111,8 @@ java Predictor
 
 ---
 
-## Author and Motivation
+## Motivation
 
-**Showmick Das** 
 - This project was developed to explore the intersection of foundational machine learning and Object Oriented Principles in Java.
 
 ---
