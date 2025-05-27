@@ -34,6 +34,11 @@ This project implements a fully functional **single-layer neural network** (perc
 
 ---
 
+## Model Architecture
+![image](https://github.com/user-attachments/assets/97da6869-f8ba-4b71-88f4-70a0de71a486)
+
+---
+
 ## Class Overview
 
 ### `Person.java`
