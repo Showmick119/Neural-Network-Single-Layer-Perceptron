@@ -28,7 +28,7 @@ jobs:
       run: javac *.java
     
     - name: Compile tests
-      run: javac -cp ".:lib/junit-platform-console-standalone-1.9.2.jar" *Test.java
+      run: javac -cp ".:lib/junit-platform-console-standalone-1.9.2.jar" tests/*.java
     
     - name: Run tests
-      run: java -jar lib/junit-platform-console-standalone-1.9.2.jar --class-path . --scan-class-path
+      run: java -jar lib/junit-platform-console-standalone-1.9.2.jar --class-path ".:tests" --scan-class-path
