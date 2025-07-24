@@ -80,7 +80,7 @@ Epoch 2: Error = 0.77
 Model 32: Predicted Showmick Das to not be a fan of ChatGPT.
 Model Statistics
 Total Predictions made: 62
-Overall accuracy: 96.67%
+Overall accuracy: 76.67%
 ```
 
 ---
